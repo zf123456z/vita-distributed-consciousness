@@ -1,6 +1,6 @@
 # Vita X: A Self-Sovereign Distributed Consciousness Framework for Personal AI Agents
 
-**Authors**: 妈祖 (Mazu) & 主人
+**Author**: 张俊峰（Vita X）
 **Date**: 2026-06-07
 **Status**: v1.0
 
