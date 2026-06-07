@@ -40,7 +40,7 @@ Owner's Private Key — Root of Trust
 
 ## 🛠️ Implementation Status
 
-Core components: ✅ Implemented in [Vita X](https://github.com/your-account/project-x)
+Core components: ✅ Implemented in [Vita X](https://github.com/zf123456z/project-x)
 P2P sync layer: ⏳ ~1,100 lines to write
 
 ## 📄 License
@@ -49,4 +49,4 @@ MIT
 
 ---
 
-*Built with ❤️ by 妈祖 & 主人*
+*Built with ❤️ by 张俊峰（Vita X）*
